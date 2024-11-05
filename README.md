@@ -21,11 +21,15 @@ The color scheme follows a professional blue and gray palette to convey reliabil
   - Utilized for text highlights (`.text-primary`) to draw attention without overwhelming.
 - **Link Colors**: `#412bc3` (primary), `#4a2782` (hover)
   - Links use contrasting shades to enhance visibility and improve user experience.
+    ![Screenshot 2024-11-04 215605](https://github.com/user-attachments/assets/193f9778-3b73-46f4-a25f-8b77d43211ec)
+
 
 ## 3. Layout Structure
 - **Navigation Bar**: 
   - A fixed side navigation bar (`#sideNav`) provides quick access to different sections of the site. It includes a profile image, which is styled with a rounded border.
   - Uses Bootstrap’s `navbar-expand-lg` and `bg-primary` classes for responsive behavior and color consistency.
+    ![Screenshot 2024-11-04 215736](https://github.com/user-attachments/assets/0d5548fe-48cc-41c0-8156-5f145a529955)
+
 
 - **Section Spacing**:
   - Each section (`.resume-section`) has top and bottom padding to ensure visual separation between content areas.
@@ -41,7 +45,11 @@ The color scheme follows a professional blue and gray palette to convey reliabil
 
 ## 5. Icons and Fonts
 - **Social Icons**: Font Awesome icons are used for LinkedIn and GitHub profiles in the sidebar, with hover effects for user interaction.
+  ![Screenshot 2024-11-04 231512](https://github.com/user-attachments/assets/e9a50a3e-dcb8-49e6-8e55-2fca2bc972d7)
+
 - **Programming Skills**: Icon fonts (Devicons) represent various programming languages and tools, enhancing the visual appeal of the Skills section.
+![Screenshot 2024-11-04 231358](https://github.com/user-attachments/assets/6390b016-2943-4dc7-8bbe-b5181921dcc5)
+
 
 ## 6. JavaScript Enhancements
 - **Smooth Scrolling**: Enabled by jQuery to create a smooth transition when users click on navigation links.
