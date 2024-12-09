@@ -61,8 +61,9 @@ Several SCSS partials provide structure and modularity for custom styles, ensuri
 - **_global.scss**: Sets global styling, including typography and color variables.
 - **_nav.scss**: Customizes the appearance and behavior of the navigation bar.
 
-## 8. Portfolio Section (Example Project - Yatzy Game)
-- A sample project entry (`Yatzy Game`) is included in the **Portfolio** section. It outlines the project’s main features and highlights the technology stack used, including JavaScript, HTML, and CSS.
+## 8. Portfolio Section 
+- A project entry (`Yatzy Game`) is included in the **Portfolio** section. It outlines the project’s main features and highlights the technology stack used, including JavaScript, HTML, and CSS.
+- Developed an (`Emergency Queue`) Management System to streamline patient and admin interactions in emergency settings, it highlights the technology used including Javascript, HTML, CSS, NodeJs and MongoDB. 
 
 ## Future Updates
 As additional projects or sections are added, this document will be updated to reflect new design components or modifications to existing styles.
